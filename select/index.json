@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Paris in the Rain",
+  "base_artist": "Lauv",
+  "createdAt": "2026-02-27T14:59:13.600321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paris in the Rain",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/01_Paris_in_the_Rain_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paris in the Rain",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/02_Paris_in_the_Rain_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paris in the Rain",
+      "artist": "Alcazar",
+      "has_synced": false,
+      "path": "select/03_Paris_in_the_Rain_Alcazar.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paris in the Rain",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/04_Paris_in_the_Rain_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paris in the Rain",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/05_Paris_in_the_Rain_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paris in the rain (Paris in the rain)",
+      "artist": "Yang Da Il",
+      "has_synced": false,
+      "path": "select/06_Paris_in_the_rain_(Paris_in_the_rain)_Yang_Da_Il.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Paris In The Rain (Outro)",
+      "artist": "M24",
+      "has_synced": true,
+      "path": "select/07_Paris_In_The_Rain_(Outro)_M24.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Paris In The Rain",
+      "artist": "Bic Runga",
+      "has_synced": true,
+      "path": "select/08_Paris_In_The_Rain_Bic_Runga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lauv - Paris in the Rain [Official Video]",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/09_Lauv_-_Paris_in_the_Rain_[Official_Video]_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paris in the Rain",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/10_Paris_in_the_Rain_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paris in the Rain",
+      "artist": "Kira",
+      "has_synced": false,
+      "path": "select/11_Paris_in_the_Rain_Kira.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paris in the Rain",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/12_Paris_in_the_Rain_Lauv.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paris In the Rain",
+      "artist": "Lauv",
+      "has_synced": false,
+      "path": "select/pl_01_Paris_In_the_Rain_Lauv.txt"
+    }
+  ]
+}
